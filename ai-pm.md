@@ -15,6 +15,22 @@ Below is your detailed plan with **deep-dive learning routes**, **weekly breakdo
 
 ---
 
+## 📁 **Weekly Plans Structure**
+
+Detailed weekly plans with daily breakdowns are available in the `weekly-plans/` directory:
+
+- **[Week 1](./weekly-plans/week-01/README.md)** - PM Strategy + AI Foundations
+- **Week 2-12** - Coming soon
+
+Each weekly plan includes:
+- Daily learning objectives and activities
+- Deliverable templates
+- Resource links
+- Progress tracking
+- Key concepts to master
+
+---
+
 # 🎯 **HIGH-LEVEL GAME PLAN**
 
 ## 📌 Phase 1 (Weeks 1–3): PM Strategy + AI Foundations
