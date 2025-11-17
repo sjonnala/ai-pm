@@ -24,22 +24,26 @@ By the end of this program, you will be able to:
 ai-pm/
 ├── README.md                          # This file
 ├── GAME_PLAN.md                       # 12-week structured learning plan
-├── weeks/
-│   ├── week-01-04-ai-fundamentals/   # AI basics and foundations
-│   ├── week-05-08-pm-core/           # Core PM skills
-│   └── week-09-12-ai-pm/             # AI-specific PM skills
-└── sessions/                          # Deep dive session files
-    ├── 01-introduction-to-ai.md
-    ├── 02-machine-learning-basics.md
-    └── ... (detailed session files)
+├── AI-PM-FRAMEWORKS.md                # Industry frameworks + MBA foundations
+├── sessions/                          # 38 deep dive session files
+│   ├── README.md                     # Session index
+│   ├── 01-introduction-to-ai.md
+│   ├── 02-machine-learning-basics.md
+│   └── ... (sessions 03-38)
+├── templates/                         # Reusable templates
+│   ├── ai-prd-template.md
+│   └── project-evaluation-matrix.md
+└── deliverables/                      # Portfolio deliverables
+    └── README.md                      # Deliverable tracking guide
 ```
 
 ## 🚀 Getting Started
 
 1. **Review the Game Plan**: Start with [GAME_PLAN.md](./GAME_PLAN.md) to understand the overall learning structure
-2. **Follow Week by Week**: Each week has specific topics and deep dive sessions
-3. **Complete Exercises**: Practice with hands-on exercises and projects
-4. **Build Your Portfolio**: Create real AI product concepts and documentation
+2. **Study the Frameworks**: Read [AI-PM-FRAMEWORKS.md](./AI-PM-FRAMEWORKS.md) for industry frameworks backed by MBA theory
+3. **Follow Week by Week**: Each week has specific topics and deep dive sessions
+4. **Complete Exercises**: Practice with hands-on exercises and projects
+5. **Build Your Portfolio**: Create real AI product concepts and documentation
 
 ## 📅 Time Commitment
 
@@ -53,6 +57,26 @@ This program integrates content from:
 - **Product Manager Certification** (6 modules)
 - **AI for Product Managers Certification** (6 modules)
 - **AI Fundamentals Course** (4-week program)
+
+## 🎯 Industry Frameworks + MBA Theory
+
+**NEW:** [AI-PM-FRAMEWORKS.md](./AI-PM-FRAMEWORKS.md) - Comprehensive guide connecting 16 industry-leading frameworks with MBA foundations:
+
+**Strategic Frameworks:**
+- Amazon's Working Backwards
+- Google's ML Product Strategy Canvas
+- Microsoft's Responsible AI Framework
+
+**Prioritization & Decision-Making:**
+- RICE/ICE Scoring (Intercom)
+- Andrew Ng's AI Project Selection
+
+**Metrics & Measurement:**
+- Google's HEART Framework
+- AARRR Pirate Metrics
+- OKRs for AI Products
+
+**Plus:** Spotify's Think-Build-Ship-Tweak, Netflix's Context Not Control, ML Canvas, Model Cards, and more - all backed by Porter, Christensen, Ries, and other MBA thought leaders.
 
 ## 🔑 Key Deliverables
 
