@@ -14,6 +14,10 @@
 - Redesigned AI-first flow for an existing app
 - Safety & guardrail design document
 
+## 🧠 Deep Dive Resources
+
+- [Conversational & Multimodal UX Deep Dive](./conversational-ux-deep-dive.md) — conversation personas, multimodal component patterns, guardrail UI guidance, and quality rubrics.
+
 ---
 
 ## 📚 Learning Objectives

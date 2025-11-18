@@ -13,6 +13,10 @@
 - AI transformation playbook for an existing app
 - Prioritization framework template
 
+## 🧠 Deep Dive Resources
+
+- [AI Roadmap Communication Deep Dive](./ai-roadmap-communication-deep-dive.md) — narrative stacks, prioritization storytelling, and dependency mapping to align execs, eng, and GTM.
+
 ---
 
 ## 📚 Learning Objectives

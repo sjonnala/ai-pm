@@ -37,6 +37,10 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Analysis: "Is [Company X] really an AI company?"
 - Data requirements document for a simple ML use case
 
+**Knowledge Base Boosters**:
+- [AI Fundamentals Guide](./weekly-plans/week-01/ai-fundamentals-guide.md) — concise overview of key concepts, terminology, and mental models.
+- [AI Opportunity Identification Guide](./weekly-plans/week-01/ai-opportunity-identification-guide.md) — practice spotting AI-ready problem spaces from day one.
+
 **Time Commitment**: 12-15 hours
 - Video/Reading: 6-8 hours
 - Exercises: 4-5 hours
@@ -66,6 +70,11 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Sample project proposal for an AI initiative
 - AI team collaboration guide
 
+**Knowledge Base Boosters**:
+- [ML Project Lifecycle Guide](./weekly-plans/week-02/ml-project-lifecycle-guide.md) — step-by-step artifact checklist from ideation through deployment.
+- [AI Project Selection Playbook](./weekly-plans/week-02/ai-project-selection.md) — feasibility/value scoring guidance.
+- [AI Validation & Experimentation Guide](./weekly-plans/week-02/ai-validation-experimentation-guide.md) — rapid test heuristics for de-risking ideas.
+
 **Time Commitment**: 12-15 hours
 
 ---
@@ -94,6 +103,11 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - AI transformation roadmap for a hypothetical company
 - AI tech stack comparison
 
+**Knowledge Base Boosters**:
+- [AI Company Analysis Framework](./weekly-plans/week-03/ai-company-analysis-framework.md) — structure for tearing down any AI org.
+- [Case Study Template](./weekly-plans/week-03/case-study-template.md) — reproducible format for analyzing successes/failures.
+- [AI Metrics Cheat Sheet](./weekly-plans/week-03/ai-metrics-cheat-sheet.md) — quick reference to tie case studies to measurable outcomes.
+
 **Time Commitment**: 12-15 hours
 
 ---
@@ -119,6 +133,10 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - AI ethics checklist for product development
 - Bias detection framework
 - **Phase 1 Capstone**: AI landscape analysis (trends, opportunities, risks)
+
+**Knowledge Base Boosters**:
+- [AI Transformation Playbook Template](./weekly-plans/week-04/ai-transformation-playbook-template.md) — structure for mapping responsible adoption.
+- [Change Management & AI Adoption Guide](./weekly-plans/week-04/change-management-ai-adoption-guide.md) — people/process guardrails.
 
 **Time Commitment**: 12-15 hours
 
@@ -151,6 +169,11 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Product vision statement for a sample product
 - Stakeholder mapping exercise
 
+**Knowledge Base Boosters**:
+- [PM Frameworks Guide](./weekly-plans/week-01/pm-frameworks-guide.md) — North Star, JTBD, and other strategy staples summarized in one place.
+- [Strategy Framework Template](./weekly-plans/week-01/strategy-framework.md) — fill-in format for articulating product vision, bets, and metrics.
+- [AI Opportunity Research Deep Dive](./weekly-plans/week-01/ai-opportunity-research-deep-dive.md) — extend strategic thinking into AI thesis creation.
+
 **Time Commitment**: 12-15 hours
 
 ---
@@ -176,6 +199,11 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Opportunity Discovery Toolkit (templates and processes)
 - User research plan and interview guide
 - JTBD analysis for a real product
+
+**Knowledge Base Boosters**:
+- [Discovery Interview Guide](./weekly-plans/week-02/discovery-interview-guide.md) — scripts, probes, and note-taking templates.
+- [Opportunity Solution Tree Template](./weekly-plans/week-02/opportunity-solution-tree.md) — visual system for mapping outcomes → solutions.
+- [AI Discovery Experiments Deep Dive](./weekly-plans/week-02/ai-discovery-experiments-deep-dive.md) — experimentation playbook for validating assumptions.
 
 **Time Commitment**: 12-15 hours
 
@@ -203,6 +231,11 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Metrics dashboard design for a sample product
 - A/B test design document
 
+**Knowledge Base Boosters**:
+- [Product Metrics Framework Guide](./weekly-plans/week-03/product-metrics-framework-guide.md) — detailed walkthrough of North Star, AARRR, HEART.
+- [Metrics Dashboard Template](./weekly-plans/week-03/metrics-dashboard.md) — ready-to-use layout for storytelling with data.
+- [Metrics Instrumentation Deep Dive](./weekly-plans/week-03/metrics-instrumentation-deep-dive.md) — instrumentation plans, review rituals, and alerting.
+
 **Time Commitment**: 12-15 hours
 
 ---
@@ -228,6 +261,11 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Product Roadmap for a sample product (6-month view)
 - Prioritization matrix with scoring criteria
 - **Phase 2 Capstone**: Complete PM toolkit (vision, research, metrics, roadmap)
+
+**Knowledge Base Boosters**:
+- [Product Strategy Frameworks Guide](./weekly-plans/week-04/product-strategy-frameworks-guide.md) — tie company objectives to roadmap pillars.
+- [Roadmap Prioritization Framework Guide](./weekly-plans/week-04/roadmap-prioritization-framework-guide.md) — hands-on scoring systems (RICE, MoSCoW, etc.).
+- [AI Roadmap Communication Deep Dive](./weekly-plans/week-04/ai-roadmap-communication-deep-dive.md) — storytelling tips for execs, eng, and GTM.
 
 **Time Commitment**: 12-15 hours
 
@@ -261,6 +299,11 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - AI vs. traditional software decision tree
 - AI product strategy document
 
+**Knowledge Base Boosters**:
+- [Opportunity Assessment Template](./weekly-plans/week-09/opportunity-assessment-template.md) — structured view for evaluating desirability/viability/feasibility.
+- [Project Selection Framework](./weekly-plans/week-09/project-selection-framework.md) — scoring rubric for portfolio ideas.
+- [Portfolio Project Planning Deep Dive](./weekly-plans/week-09/portfolio-project-planning-deep-dive.md) — scope ladder, execution plan, and risk logs.
+
 **Time Commitment**: 12-15 hours
 
 ---
@@ -287,6 +330,12 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - AI-Specific PRD (complete document)
 - AI requirements checklist
 - Trade-off analysis framework
+
+**Knowledge Base Boosters**:
+- [PRD Writing Deep Dive](./weekly-plans/week-05/prd-writing-deep-dive.md) — Golden 8 structure, acceptance criteria, and QA checklist.
+- [AI Requirements Deep Dive](./weekly-plans/week-05/ai-requirements-deep-dive.md) — data/model/eval/ops stack guidance.
+- [RAG PRD Blueprint](./weekly-plans/week-05/rag-prd-blueprint.md) — retrieval, prompt, and evaluation patterns.
+- [AI Guardrails & HITL Guide](./weekly-plans/week-05/ai-guardrails-hitl-guide.md) — layered safeguards and human review flows.
 
 **Time Commitment**: 12-15 hours
 
@@ -316,6 +365,12 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - AI-native UX flow documentation
 - AI Evaluation Framework (complete)
 
+**Knowledge Base Boosters**:
+- [Prompt Engineering Playbook Template](./weekly-plans/week-06/prompt-engineering-playbook-template.md) — reusable library of prompt patterns.
+- [Prompt Prototyping Lab Guide](./weekly-plans/week-06/prompt-prototyping-lab-guide.md) — batch testing loops and spec templates.
+- [Conversational & Multimodal UX Deep Dive](./weekly-plans/week-07/conversational-ux-deep-dive.md) — conversation personas, multimodal patterns, guardrails.
+- [Evaluation Ops Deep Dive](./weekly-plans/week-08/evaluation-ops-deep-dive.md) — ownership models, red teaming, and drift monitoring.
+
 **Time Commitment**: 15-18 hours
 
 ---
@@ -336,7 +391,7 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 **Deep Dive Sessions**:
 - [Session 36: AI Product Execution](./sessions/36-ai-product-execution.md)
 - [Session 37: GTM Strategy for AI Products](./sessions/37-ai-gtm-strategy.md)
-- [Session 38: AI Product Iteration & Growth](./sessions/38-ai-iteration-growth.md)
+- [Session 38: AI Product Iteration & Growth](./sessions/38-ai-product-iteration-growth.md)
 
 **Deliverables**:
 - Go-to-Market & Iteration Plan
@@ -346,8 +401,13 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
   - Prompt-driven prototype
   - AI-native UX flows
   - Evaluation framework
-  - GTM plan
-  - Success metrics
+- GTM plan
+- Success metrics
+
+**Knowledge Base Boosters**:
+- [AI Build & Handoff Deep Dive](./weekly-plans/week-10/ai-build-handoff-deep-dive.md) — readiness scorecards, tech architecture expectations, handoff agenda.
+- [GTM Launch Readiness Deep Dive](./weekly-plans/week-11/gtm-launch-readiness-deep-dive.md) — launch narrative canvas, readiness board, enablement toolkit.
+- [Interview Rehearsal Deep Dive](./weekly-plans/week-12/interview-rehearsal-deep-dive.md) — story bank system and rehearsal plans for showcasing your capstone.
 
 **Time Commitment**: 15-20 hours
 

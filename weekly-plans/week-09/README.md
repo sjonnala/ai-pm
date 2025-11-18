@@ -18,6 +18,10 @@ You've spent 8 weeks building AI PM skills. Now it's time to showcase them by bu
 - Portfolio project proposal
 - 3-week execution plan
 
+## 🧠 Deep Dive Resources
+
+- [Portfolio Project Planning Deep Dive](./portfolio-project-planning-deep-dive.md) — selection matrix, scope ladder, execution blueprint, and risk/dependency log templates.
+
 ---
 
 ## 📚 Learning Objectives

@@ -14,6 +14,10 @@
 - Prompt engineering playbook
 - (Optional) Stakeholder demo video
 
+## 🧠 Deep Dive Resources
+
+- [Prompt Prototyping Lab Guide](./prompt-prototyping-lab-guide.md) — experiment loops, prompt specs, pattern cheat sheets, and batch testing rubrics for fast validation.
+
 ---
 
 ## 📚 Learning Objectives

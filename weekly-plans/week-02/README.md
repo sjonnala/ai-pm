@@ -13,6 +13,10 @@
 - Opportunity Solution Tree for one AI opportunity
 - ML Project Lifecycle document
 
+## 🧠 Deep Dive Resources
+
+- [AI Discovery Experiments Deep Dive](./ai-discovery-experiments-deep-dive.md) — assumption mapping, experiment toolkit, and continuous discovery loop guidance for AI projects.
+
 ---
 
 ## 📚 Learning Objectives

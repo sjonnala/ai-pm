@@ -21,6 +21,10 @@ You've built an incredible AI PM portfolio over 11 weeks. This week is about pac
 - Updated resume and LinkedIn
 - Interview-ready confidence! 🚀
 
+## 🧠 Deep Dive Resources
+
+- [Interview Rehearsal Deep Dive](./interview-rehearsal-deep-dive.md) — story bank system, rehearsal plan, framework cheat sheets, and mock feedback tools.
+
 ---
 
 ## 📚 Learning Objectives

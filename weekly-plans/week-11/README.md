@@ -22,6 +22,10 @@ This week you complete your AI PM portfolio with evaluation frameworks, go-to-ma
 - Presentation deck (10-15 slides)
 - Complete portfolio package
 
+## 🧠 Deep Dive Resources
+
+- [GTM Launch Readiness Deep Dive](./gtm-launch-readiness-deep-dive.md) — launch narrative canvas, readiness boards, GTM testing checklist, and enablement toolkit guidance.
+
 ---
 
 ## 📚 Learning Objectives

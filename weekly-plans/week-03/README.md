@@ -13,6 +13,10 @@
 - 2 in-depth AI case study analyses
 - AI metrics cheat sheet
 
+## 🧠 Deep Dive Resources
+
+- [Metrics Instrumentation Deep Dive](./metrics-instrumentation-deep-dive.md) — metric trees, instrumentation plans, and review rituals linking model, product, and business outcomes.
+
 ---
 
 ## 📚 Learning Objectives

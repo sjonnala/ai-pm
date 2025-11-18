@@ -16,6 +16,10 @@
 - Drift monitoring strategy
 - Evaluation rubric with scoring
 
+## 🧠 Deep Dive Resources
+
+- [Evaluation Ops Deep Dive](./evaluation-ops-deep-dive.md) — ownership models, test suite architecture, eval boards, red teaming, and drift alerting templates.
+
 ---
 
 ## 📚 Learning Objectives

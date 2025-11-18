@@ -13,6 +13,13 @@
 - AI PRD with RAG/LLM requirements
 - PRD template for future use
 
+## 🧠 Deep Dive Resources
+
+- [PRD Writing Deep Dive](./prd-writing-deep-dive.md) — "Golden 8" structure, acceptance criteria tips, and QA checklist.
+- [AI Requirements Deep Dive](./ai-requirements-deep-dive.md) — detailed data/model/evaluation/ops considerations for AI PRDs.
+- [AI Guardrails & HITL Guide](./ai-guardrails-hitl-guide.md) — layered guardrails, HITL workflows, and monitoring metrics.
+- [RAG PRD Blueprint](./rag-prd-blueprint.md) — retrieval design, prompt strategy, evaluation, and security/fallback guidance.
+
 ---
 
 ## 📚 Learning Objectives

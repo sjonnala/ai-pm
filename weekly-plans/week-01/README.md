@@ -11,6 +11,10 @@
 - 10 AI PM opportunities document
 - 1 strategy framework document
 
+## 🧠 Deep Dive Resources
+
+- [AI Opportunity Research Deep Dive](./ai-opportunity-research-deep-dive.md) — canvases, signal-mining rituals, and scoring models to build evidence-backed opportunity theses.
+
 ---
 
 ## 📚 Learning Objectives

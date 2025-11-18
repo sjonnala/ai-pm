@@ -19,6 +19,10 @@ This is where you bring your portfolio project to life. You'll create all the co
 - 5+ detailed UX flows
 - Technical architecture diagram
 
+## 🧠 Deep Dive Resources
+
+- [AI Build & Handoff Deep Dive](./ai-build-handoff-deep-dive.md) — readiness scorecards, handoff agendas, architecture expectations, and pre-launch quality gates.
+
 ---
 
 ## 📚 Learning Objectives

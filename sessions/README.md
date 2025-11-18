@@ -21,7 +21,7 @@ Complete index of all 38 deep dive sessions organized by phase and week.
 - [Session 08: AI Product Case Studies](./08-ai-product-case-studies.md)
 - [Session 09: AI Team Structure](./09-ai-team-structure.md)
 - [Session 10: AI Transformation Playbook](./10-ai-transformation-playbook.md)
-- [Session 11: Major AI Applications & Techniques](./11-major-ai-applications---techniques.md)
+- [Session 11: Major AI Applications & Techniques](./11-ai-applications-techniques.md)
 
 ### Week 4: AI and Society
 - [Session 12: AI Capabilities and Limitations](./12-ai-capabilities-and-limitations.md)
@@ -35,7 +35,7 @@ Complete index of all 38 deep dive sessions organized by phase and week.
 ### Week 5: Strategic Product Thinking
 - [Session 15: The PM Role Deep Dive](./15-the-pm-role-deep-dive.md)
 - [Session 16: Strategic Product Thinking](./16-strategic-product-thinking.md)
-- [Session 17: Product Vision & Strategy](./17-product-vision---strategy.md)
+- [Session 17: Product Vision & Strategy](./17-product-vision-strategy.md)
 
 ### Week 6: Opportunity Discovery & User Research
 - [Session 18: Opportunity Discovery](./18-opportunity-discovery.md)
@@ -74,7 +74,7 @@ Complete index of all 38 deep dive sessions organized by phase and week.
 ### Week 12: Execution, GTM & Final Project
 - [Session 36: AI Product Execution](./36-ai-product-execution.md)
 - [Session 37: GTM Strategy for AI Products](./37-gtm-strategy-for-ai-products.md)
-- [Session 38: AI Product Iteration & Growth](./38-ai-product-iteration---growth.md)
+- [Session 38: AI Product Iteration & Growth](./38-ai-product-iteration-growth.md)
 
 ---
 
