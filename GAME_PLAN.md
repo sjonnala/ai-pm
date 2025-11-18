@@ -125,8 +125,8 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Responsible AI principles
 
 **Deep Dive Sessions**:
-- [Session 12: AI Capabilities and Limitations](./sessions/12-ai-capabilities-limitations.md)
-- [Session 13: AI Ethics and Bias](./sessions/13-ai-ethics-bias.md)
+- [Session 12: AI Capabilities and Limitations](./sessions/12-ai-capabilities-and-limitations.md)
+- [Session 13: AI Ethics and Bias](./sessions/13-ai-ethics-and-bias.md)
 - [Session 14: Responsible AI Framework](./sessions/14-responsible-ai-framework.md)
 
 **Deliverables**:
@@ -160,7 +160,7 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Product vision and strategy
 
 **Deep Dive Sessions**:
-- [Session 15: The PM Role Deep Dive](./sessions/15-pm-role-deep-dive.md)
+- [Session 15: The PM Role Deep Dive](./sessions/15-the-pm-role-deep-dive.md)
 - [Session 16: Strategic Product Thinking](./sessions/16-strategic-product-thinking.md)
 - [Session 17: Product Vision & Strategy](./sessions/17-product-vision-strategy.md)
 
@@ -193,7 +193,7 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 **Deep Dive Sessions**:
 - [Session 18: Opportunity Discovery Methods](./sessions/18-opportunity-discovery.md)
 - [Session 19: User Research Best Practices](./sessions/19-user-research.md)
-- [Session 20: Jobs-to-be-Done Framework](./sessions/20-jobs-to-be-done.md)
+- [Session 20: Jobs-to-be-Done Framework](./sessions/20-jobs-to-be-done-framework.md)
 
 **Deliverables**:
 - Opportunity Discovery Toolkit (templates and processes)
@@ -290,9 +290,9 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Build vs. buy decisions for AI capabilities
 
 **Deep Dive Sessions**:
-- [Session 27: AI-First Product Mindset](./sessions/27-ai-first-mindset.md)
+- [Session 27: AI-First Product Mindset](./sessions/27-ai-first-product-mindset.md)
 - [Session 28: AI Product Strategy](./sessions/28-ai-product-strategy.md)
-- [Session 29: AI Build vs Buy Decisions](./sessions/29-ai-build-vs-buy.md)
+- [Session 29: AI Build vs Buy Decisions](./sessions/29-ai-build-vs-buy-decisions.md)
 
 **Deliverables**:
 - AI opportunity assessment framework
@@ -322,9 +322,9 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Edge cases and failure modes
 
 **Deep Dive Sessions**:
-- [Session 30: AI-Specific PRD Template](./sessions/30-ai-prd-template.md)
-- [Session 31: RAG and LLM Requirements](./sessions/31-rag-llm-requirements.md)
-- [Session 32: AI Cost-Latency-Performance Trade-offs](./sessions/32-ai-tradeoffs.md)
+- [Session 30: AI-Specific PRD Template](./sessions/30-ai-specific-prd-template.md)
+- [Session 31: RAG and LLM Requirements](./sessions/31-rag-and-llm-requirements.md)
+- [Session 32: AI Cost-Latency-Performance Trade-offs](./sessions/32-ai-cost-latency-performance-trade-offs.md)
 
 **Deliverables**:
 - AI-Specific PRD (complete document)
@@ -356,8 +356,8 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 - Human-in-the-loop evaluation
 
 **Deep Dive Sessions**:
-- [Session 33: Prompt Engineering for PMs](./sessions/33-prompt-engineering.md)
-- [Session 34: AI-Native UX Design](./sessions/34-ai-native-ux.md)
+- [Session 33: Prompt Engineering for PMs](./sessions/33-prompt-engineering-for-pms.md)
+- [Session 34: AI-Native UX Design](./sessions/34-ai-native-ux-design.md)
 - [Session 35: AI Evaluation Framework](./sessions/35-ai-evaluation-framework.md)
 
 **Deliverables**:
@@ -390,7 +390,7 @@ This game plan integrates **AI Fundamentals**, **Core Product Management**, and 
 
 **Deep Dive Sessions**:
 - [Session 36: AI Product Execution](./sessions/36-ai-product-execution.md)
-- [Session 37: GTM Strategy for AI Products](./sessions/37-ai-gtm-strategy.md)
+- [Session 37: GTM Strategy for AI Products](./sessions/37-gtm-strategy-for-ai-products.md)
 - [Session 38: AI Product Iteration & Growth](./sessions/38-ai-product-iteration-growth.md)
 
 **Deliverables**:
